@@ -15,5 +15,5 @@ function hideMenu(){
 function showMenu(){
     close.style.display = 'none';
     open.style.display = 'block';
-    item.style.displa = "none";
+    item.style.display = "none";
 }
