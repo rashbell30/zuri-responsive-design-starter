@@ -430,7 +430,7 @@ div.snapshot-box-content .box3{
 @media screen and (min-width: 360px){
     div.hero-section {
         padding: 2em;
-        padding-top: 10em;
+        padding-to: 10em;
     }
 
 }
